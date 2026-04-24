@@ -46,30 +46,15 @@ I enjoy designing AI workflows, integrating models into robust backend services,
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <!-- Stats -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aryaahadi&show_icons=true&theme=tokyonight&hide_border=true"/>
   <!-- Streak -->
   <img width="48%" src="https://streak-stats.demolab.com?user=aryaahadi&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
   <!-- Top languages -->
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryaahadi&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryaahadi&theme=tokyo-night&hide_border=true"/>
-</p>
-
-<p align="center">
   <!-- Skill Icons -->
   <img src="https://skillicons.dev/icons?i=python,fastapi,django,pytorch,java,spring,redis,rabbitmq,docker,linux,git" />
-</p>
-
-<p align="center">
-  <!-- Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=aryaahadi&theme=tokyonight&no-frame=true&row=1"/>
 </p>
 
 ---
